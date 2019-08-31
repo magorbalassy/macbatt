@@ -1,0 +1,4 @@
+on run argv
+ display notification argv with title "Battery low" 
+end run
+
